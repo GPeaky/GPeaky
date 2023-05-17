@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gerhard from Germany<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Gerhard from Germany<br><br>- 🔭 I’m working Developer in Daily<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I play Racing Games</p>
 
 ###
 
