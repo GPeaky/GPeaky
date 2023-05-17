@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gerhard i am from Germany<br><br>- 🔭 I’m working as Developer in Daily<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I play Racing Games</p>
+<p align="left">I'm Gerard from Germany<br><br>- 🔭 I’m working as Developer in Daily<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I play Racing Games</p>
 
 ###
 
@@ -54,14 +54,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gpeaky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/xint76qz6ynoc7d6nf5mdd89d">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
