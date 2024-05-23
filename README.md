@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gerard from Germany<br><br>- 🔭 I’m working as Developer in Daily<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I play Racing Games</p>
+<p align="left">I'm Gerard from Germany<br><br>- 🔭 I’m working as Developer in Daily<br>- 📚 I'm currently learning Zig<br>- ⚡ In my free time I play Racing Games</p>
 
 ###
 
@@ -35,7 +35,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://github.com/ziglang/logo/blob/master/zig-mark.svg" height="40" width="52" alt="zig logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="52" alt="svelte logo"  />
