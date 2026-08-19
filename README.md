@@ -22,7 +22,7 @@ I probably don't need.
 ### Things I use
 
 - **Languages:** JavaScript, TypeScript, Go, Rust, C
-- **Web:** Svelte, HTML, CSS
+- **Web:** Svelte, Tailwind CSS, HTML, CSS
 - **Data:** PostgreSQL, MySQL
 
 ### Contact
